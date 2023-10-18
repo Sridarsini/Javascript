@@ -1,0 +1,15 @@
+document.getElementById("bioData").innerHTML="RESUME";
+document.getElementById("bioData").style="color:red";
+document.getElementById("stuName").innerText="Sridarsini N";
+document.getElementById("stuName").style="font-size:60px;";
+document.getElementById("eMail").innerHTML="EMail ID:<u>nagasri2582@gmail.com</u>";
+document.getElementById("mobNo").innerHTML="Mobile:<b>8778026955</b>";
+document.getElementById("hrLine").innerHTML="<hr>";
+document.getElementById("pmntAdress").innerHTML="26, new vilangudi, madurai-18";
+document.getElementById("proSkills").innerHTML="PROFESSIONAL SKILLS";
+document.getElementById("proSkills").style="color:red";
+document.getElementById("unOrdered").innerHTML="<ul><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>"
+document.getElementById("hrLinee").innerHTML="<hr>";
+document.getElementById("ugQual").innerHTML="QUALIFICATION";
+document.getElementById("ugQual").style="color:red";
+document.getElementById("qualifications").innerHTML="<tr><td>1</td><td>Computer Science</td><td>2023</td><td>90%</td></tr>";
